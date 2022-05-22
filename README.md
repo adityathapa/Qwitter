@@ -1,7 +1,7 @@
 # Qwitter - a Twitter clone in making using Quasar and Vue framework
 
 Check the releases section for current Windows client. Also hosted on Vercel 👇
-### https://qwitter-zeta.vercel.app/#/
+### https://qwitter-zeta.vercel.app
 
 ## Features (v0.0.1):
 1. Real time updation with a Firebase backend
